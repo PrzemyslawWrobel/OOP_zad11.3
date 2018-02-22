@@ -1,5 +1,5 @@
 {
-  "name": "OOP_zad11.3",
+  "name": "OOP_zad11.4",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -30,9 +30,9 @@
   "author": "Przemyslaw Wrobel",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/PrzemyslawWrobel/OOP_zad11.3/issues"
+    "url": "https://github.com/PrzemyslawWrobel/OOP_zad11.4/issues"
   },
-  "homepage": "https://github.com/PrzemyslawWrobel/OOP_zad11.3#readme",
+  "homepage": "https://github.com/PrzemyslawWrobel/OOP_zad11.4#readme",
   "devDependencies": {
     "autoprefixer-cli": "^1.0.0",
     "browser-sync": "^2.23.6",
